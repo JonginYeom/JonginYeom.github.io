@@ -1,10 +1,10 @@
 # Site
-title:              Massively
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
-locale:             en_US
+title:              JonginYeom's Blog
+bio:                
+description:        
+locale:             en_KR
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: #"https://JonginYeom.github.io" # the base hostname & protocol for your site
 
 defaults:
 - scope:
@@ -38,12 +38,12 @@ analytics-id:       "default"
 twitter:            default
 facebook:           default
 instagram:          default
-github:             default
+github:             "JonginYeom"
 
 # personal
-location:           Los Angeles, CA
-phone:              310-318-5555
-email:              info@default.com
+location:           Seoul, KR
+phone:              -
+email:              jongin.yeom@gmail.com
 
 # Gems
 gems:
