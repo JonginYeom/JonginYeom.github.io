@@ -57,7 +57,7 @@ MVP / MVVM / RxJAVA
 
 ---
 
-#### 한국사 문제풀이 앱 (2017.09.01~12.31)
+#### 런투런 한국사 문제풀이 앱 (2017.09.01~12.31)
 
 - 공무원 9급 한국사 문제풀이 앱
 - Ver1 개발 (기여도 90%) 및 플레이스토어 출시 지원
@@ -80,4 +80,20 @@ MVP / MVVM / RxJAVA
 
 ---
 
-#### 추가 중
+#### TokAndShake (~2017.04.03)
+
+- TCP를 이용한 실시간 다중 채팅 앱
+- 텍스트 / 이미지 전송
+- 비슷한 타이밍에 핸드폰을 흔든 다른 유저 추천
+- 여러 명의 친구 선택 후 메시지 입력하고 핸드폰 흔들면 1:1로 메시지 전송
+- 사용 기술 : NDK(OpenCV) / OkHttp3 / Facebook stetho / Realm 등
+- 서버 구성 : Ubuntu 14.04 + NginX + PHP7.0-FPM + MariaDB + Redis
+
+#### DailyPic ()
+
+- Instagram을 모방한 앱
+- 사진 업로드 및 공유 (필터 처리 가능)
+- 팔로우 (친구 추가)) / 해시 태그 / 해시 태그 이용 검색
+- 좋아요 표시 처리 / FCM
+- 사용 기술 : Facebook Login API / Glide / FCM 등
+- 서버 구성 : Ubuntu 14.04 + Apache + PHP + MySQL
